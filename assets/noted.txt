@@ -1,0 +1,9 @@
+nguyên tắc:
+1. làm từ ngoài vào trong
+2. làm từ trên xuống dưới
+3. làm tổng quan đến chi tiết
+question:
+1. vị trí
+2. kích thước
+3. màu sắc
+4. styles
